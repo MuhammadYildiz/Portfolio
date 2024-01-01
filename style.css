@@ -642,6 +642,9 @@
     max-height: 300px;
     font-family: 'Brygada 1918', serif;
 }
+.contact-box form textarea:hover{
+    background-color: #000000;
+}
 .contact-box form input[type=submit]{
     background-color: aliceblue;
     height: 60px;
