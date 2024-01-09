@@ -755,17 +755,18 @@
 @media screen and (max-width: 950px) {
     .header .navbar {
         z-index: -1;
-        margin-top: 380px;
+        margin-top: 400px;
         padding-top: 100px;
         position: absolute;
         display: flex;
         width: 27%;
         flex-direction: column;
-        height: 60vh;
+        height: 70vh;
         justify-content: space-around;
         background-color: #1B4242;
         padding-bottom: 20px;
         border-radius: 0px 0px 5px 0px;
+        
     }
 
     .header .navbar li {
