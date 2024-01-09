@@ -84,7 +84,7 @@
 }
 
 .container {
-    background-image: url("/image/nubelson-fernandes--Xqckh_XVU4-unsplash.jpg");
+    background-image: url("./image/nubelson-fernandes--Xqckh_XVU4-unsplash.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -228,7 +228,7 @@
 
 /* Skills */
 .skills {
-    background-image: url("/image/diego-ph-5LOhydOtTKU-unsplash.jpg");
+    background-image: url("./image/diego-ph-5LOhydOtTKU-unsplash.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -249,7 +249,7 @@
 }
 
 .language {
-    background-image: url("/image/language.jpg");
+    background-image: url("./image/language.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -315,14 +315,14 @@
 }
 
 .data-skills {
-    background-image: url("/image/joshua-aragon-EaB4Ml7C7fE-unsplash.jpg");
+    background-image: url("./image/joshua-aragon-EaB4Ml7C7fE-unsplash.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 /* Educations */
 .education {
-    background-image: url("/image/steve-johnson-_0iV9LmPDn0-unsplash.jpg");
+    background-image: url("./image/steve-johnson-_0iV9LmPDn0-unsplash.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     border: solid 1px;
@@ -408,7 +408,7 @@
 
 /* Experience */
 .experience {
-    background-image: url("/image/richard-horvath-is8jWT-mvng-unsplash.jpg");
+    background-image: url("./image/richard-horvath-is8jWT-mvng-unsplash.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     border: solid 1px;
@@ -418,7 +418,7 @@
 }
 
 .experience-content {
-    background-image: url("/image/solen-feyissa-ME2lt7QN7-4-unsplash.jpg");
+    background-image: url("./image/solen-feyissa-ME2lt7QN7-4-unsplash.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 90%;
@@ -554,7 +554,7 @@
 
 /* Contact */
 .contact {
-    background-image: url("/image/contact.jpg");
+    background-image: url("./image/contact.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     border: solid 1px;
